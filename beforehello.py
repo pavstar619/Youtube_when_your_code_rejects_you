@@ -1,2 +1,2 @@
 a = input()
-print("PC: " + a)
+print("PC: " +a)
